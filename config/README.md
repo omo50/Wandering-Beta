@@ -1,0 +1,1 @@
+Welcome to the Config Folder for the Wandering Beta modpack! This includes all modified config files for the project. All optimization files (excluding ImmediatelyFast) are from Hypersoop and Simply Optimized.
